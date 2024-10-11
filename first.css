@@ -704,6 +704,15 @@ line-height: 30px;
     .up-arrow-container{
         left: 90%;
     }
+    #s1 .btn{
+        width: 140px;
+    }
+    @media screen and (max-width: 286px) {
+        #s1 .btn{
+            width: 100px;
+        }
+    }
+
     
 
     
